@@ -1,6 +1,6 @@
 ### Hello there, welcome to my Git profile 👋
 - 👨‍💻 I'm Duc - A man who's trying to be better everyday 😄
-- 🌱 I’m currently learning Networking/System, ML/IoTs
+- 🌱 I’m used to be a developer and now I'm currently working and learning in Project/Product Management
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/ngmduc2100), [Facebook](https://www.facebook.com/nguyenminhduc2.0)
 - ⚡ Fun fact: I love eating 🍴 and sleeping all days 😴
 
